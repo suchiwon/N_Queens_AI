@@ -1,0 +1,8 @@
+Standard CSP>
+Location : 0 2 4 7 9 11 5 10 1 6 8 3 
+Total Elapsed Time : 0.01
+
+CSP with Forward Checking>
+Location : 0 3 6 9 7 1 11 2 5 10 8 4 
+Total Elapsed Time : 0.004
+

@@ -1,0 +1,7 @@
+Standard CSP>
+Total Elapsed Time : 0.001
+
+CSP with Forward Checking>
+No Solution
+Total Elapsed Time : 0.002
+

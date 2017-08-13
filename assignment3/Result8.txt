@@ -1,0 +1,11 @@
+Standard CSP>
+Total Elapsed Time : 0.001
+
+CSP with Forward Checking>
+Location : 0 5 7 2 6 3 1 4 
+Total Elapsed Time : 0.004
+
+CSP with Arc Consistency>
+Location : 0 5 7 2 6 3 1 4 
+Total Elapsed Time : 0.004
+

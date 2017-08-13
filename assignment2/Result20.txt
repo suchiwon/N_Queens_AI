@@ -1,0 +1,4 @@
+Hill Climbing>
+8 15 4 16 1 9 5 0 17 12 10 18 3 14 19 2 6 11 13 7
+Total Elipsed Time : 559.223
+
